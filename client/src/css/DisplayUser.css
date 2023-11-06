@@ -1,0 +1,13 @@
+.container{
+    margin: 0px auto;
+    padding: 3% 5%;
+    box-shadow: -10px 0px 15px -5px rgba(0, 0, 0, 0.5), 10px 0px 15px -5px rgba(0, 0, 0, 0.5);
+    width: 80vw;
+}
+th{
+    font-size: medium;
+    color: black;
+}
+.table{
+    margin-bottom: 2%;
+}

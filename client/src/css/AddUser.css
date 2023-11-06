@@ -1,0 +1,58 @@
+.container{
+    padding: 3% auto 0%;
+    box-shadow: -10px 0px 15px -5px rgba(0, 0, 0, 0.5), 10px 0px 15px -5px rgba(0, 0, 0, 0.5);
+    width: 80vw;
+}
+form{
+    padding-top: 5vh;
+}
+.error {
+    color: red;
+    font-weight: bold;
+  }
+.section-heading{
+    height: auto;
+    width: 100%;
+    color: white;
+    padding: 1% 2%;
+    margin-bottom: 1%;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+    background: radial-gradient(circle at 100% 0%, #1A0655, #601A79 );
+}
+.section{
+    padding: 1%;
+    margin: 0% 5%;
+}
+.file p{
+    text-align: center;
+}
+.btn-file{
+    background-color: #E9ECEF;
+    color: grey;
+    width: 90%;
+    height: 50%;
+    margin: 2%;
+    padding: auto 2%;
+}
+.input-field{
+    margin-top: 3%;
+    padding-top: 3%;
+    color: #1A0655;
+}
+li{
+    padding: 1% 2%;
+    color: #7d7d7d;
+}
+.form-check{
+    padding-top:2%;
+}
+.btn-success{
+    background: radial-gradient(circle at 100% 0%, #1A0655, #601A79 );
+    display: flex;
+    float: right;
+    padding: 1% 5%;
+    font-size: medium;
+    margin-bottom: 2%;
+    text-transform: none;
+}
